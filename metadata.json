@@ -1,0 +1,6 @@
+{
+  "name": "Care.xyz - Trusted Baby Sitting & Elderly Care Service",
+  "description": "Reliable and trusted care services for children, elderly, and sick family members with certified caregivers, instant booking, and transparent pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
